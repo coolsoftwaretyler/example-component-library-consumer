@@ -1,0 +1,13 @@
+{
+  "version": "v1",
+  "packages": {
+    "counter-library": {
+      "signature": "9ad3a3e6f03261995f196626190e2c5c",
+      "file": true
+    },
+    "@counter/library": {
+      "signature": "67ef0f7bbf46e584a6819d25e2e9057f",
+      "file": true
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@counter/library",
+  "version": "1.0.9",
+  "description": "Example Counter Component for React Native",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-native": "^0.76.1"
+  },
+  "dependencies": {},
+  "yalcSig": "67ef0f7bbf46e584a6819d25e2e9057f"
+}
